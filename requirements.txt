@@ -1,0 +1,11 @@
+black
+faker
+flake8
+playwright
+pytest
+pytest-html
+pytest-playwright
+pytest-rerunfailures
+pytest-xdist
+python-dotenv
+requests
